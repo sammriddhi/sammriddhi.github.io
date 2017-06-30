@@ -22,8 +22,8 @@
 	              padding:10px;
 	              margin:auto;
 	          }
-#name{font-size:2em;}
-#bio{font-size:0.5em;}
+#name{font-size:2em;text-align:right;}
+#bio{font-size:0.5em;text-align:right;}
 #link {
     display: flex;
     flex-flow: row wrap;
