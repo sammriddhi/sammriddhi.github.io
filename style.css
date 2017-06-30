@@ -22,7 +22,9 @@
 	              padding:10px;
 	              margin:auto;
 	          }
-		#link {
+#name{font-size:2em;}
+#bio{font-size:0.5em;}
+#link {
     display: flex;
     flex-flow: row wrap;
     flex-basis: auto;
