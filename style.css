@@ -67,6 +67,9 @@ div #link{padding-top:5px;}
     height: 42px;
     background-position: -473px -5px
 }
+a{
+	color: #FFFFFF;
+}
 @media only screen and (max-width: 500px) {
 	body {
 	      background: url(bgm.jpg) center no-repeat fixed !important;
