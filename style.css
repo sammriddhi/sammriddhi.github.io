@@ -86,6 +86,9 @@ a:hover {
 a:active {
     color: #ffffff;
 } 
+body #message{
+	    background-color: rgba(0,0,0, 0.9);
+}
 @media only screen and (max-width: 500px) {
 	body {
 	      background: url(bgm.jpg) center no-repeat fixed !important;
