@@ -20,6 +20,7 @@ body{
 #name{font-size:3em;text-align:right;}
 #bio{font-size:1em;text-align:right;}
 div #link{padding-top:5px;}
+#send_me_a_message{font-size:1em;text-align:right;}
 #link {
     display: flex;
     flex-flow: row wrap;
@@ -75,4 +76,5 @@ div #link{padding-top:5px;}
 	#name{font-size:3em;text-align:right;}
 	#bio{font-size:1em;text-align:right;}
 	div #link{padding-top:5px;}
+	div #send_me_a_message{padding-top:5px;}
 }
